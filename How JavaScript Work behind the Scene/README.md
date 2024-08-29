@@ -1,6 +1,6 @@
 
 
-## How JavaScript works behind the scene🧑🏾‍💻
+##  🚀 How JavaScript works behind the scene🧑🏾‍💻
 
 Every thing in js happends inside an execution context
 
