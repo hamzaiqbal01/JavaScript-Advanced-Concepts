@@ -1,0 +1,1 @@
+console.log("************ Find the Prime number 🧐🧐 ****************")
