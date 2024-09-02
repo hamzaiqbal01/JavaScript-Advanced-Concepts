@@ -76,3 +76,15 @@ function print() {
     }
 }
 print();
+
+
+
+var n = 4;
+
+function squre(num) {
+    var ans = num * num;
+    return ans;
+}
+
+var squre2 = squre(2);
+var squre4 = squre(4);
